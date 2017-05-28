@@ -37,7 +37,7 @@ After this, your server will have installed Apache2.
 
 You can try to type your server ip address on browser, you will see a index page of apache similar like:
 
-![image.jpg](http://yasoob.me/gci/images/default_apache.png)
+![image.jpg](https://raw.githubusercontent.com/MelbPaulZ/AndroidNotes/master/apache.png)
 
 ## <a name='step2'>Step 2: Load modules
 type in command line to load apache modules:
