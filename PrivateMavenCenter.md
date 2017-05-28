@@ -39,7 +39,7 @@ In total it has 4 big steps, so don't worry about it, let's see how it works.
 	```
 	Then you will see the dash board of Nexus
 	
-	![nexus.jpeg](https://github.com/MelbPaulZ/MavenPrivate/blob/master/nexus.jpeg?raw=true)
+	![nexus.jpeg](https://raw.githubusercontent.com/MelbPaulZ/AndroidNotes/master/nexus.jpg)
 
 
     
