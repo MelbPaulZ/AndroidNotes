@@ -106,7 +106,7 @@ Open browser, type in
 ```
 You can successfully access Nexus. The reverse proxy has done.
 
-![nexus.jpg](https://github.com/MelbPaulZ/MavenPrivate/blob/master/nexus.jpeg?raw=true)
+![nexus.jpg](https://raw.githubusercontent.com/MelbPaulZ/AndroidNotes/master/nexus.jpg)
 
 ## <a name='troubleShooting'>Trouble Shooting
 
